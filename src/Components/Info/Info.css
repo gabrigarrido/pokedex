@@ -1,0 +1,57 @@
+.info {
+    height: 30vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 0.5rem;
+    
+  }
+
+.info-card{
+  height: 30vh;
+  
+}
+
+  .info-footer{
+    align-items: center;
+  }
+
+  .info-body{
+    background-color: #acbf79;
+  }
+
+  .info-body img {
+    height: 50vh;
+  }
+  
+  .info-header {
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: 700;
+    background-color:rgb(255, 255, 255);
+  }
+  
+  .info-block {
+    padding: 1rem 0;
+    margin-left: 0.3rem;
+  }
+  
+  .type {
+    padding: 1rem 0;
+  }
+  
+  .type p {
+    padding: 0.5rem 0;
+  }
+  
+  .link {
+    padding: 0.5rem;
+    color: #fff705;
+    font-size: 15pt;
+    background-color: blue;
+  }
+  .link:hover{
+    background-color: #faf200;
+    color: blue;
+  }
